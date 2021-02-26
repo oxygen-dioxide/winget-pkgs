@@ -1,0 +1,27 @@
+# ================== General ==================
+Id: masscode.masscode
+Name: masscode
+Publisher: madisvain
+Author: madisvain
+Description: A free and open source code snippets manager for developers.
+#AppMoniker:
+Tags: electron,vue,monaco,code,develop
+#FileExtensions:
+#Protocols:
+#Commands:
+
+# ================== License ==================
+Homepage: https://github.com/antonreshetov/massCode
+License: AGPL
+LicenseUrl: https://github.com/antonreshetov/massCode/blob/master/LICENSE
+
+# ================= Installer =================
+Version: 1.3.0
+InstallerType: nullsoft
+Installers:
+  - Arch: x86
+    Url: https://github.com/antonreshetov/massCode/releases/download/v1.3.0/massCode.Setup.1.3.0.exe
+    Sha256: 23c1e8e822598e77c5e65002eea58f2ae247b3d16e8eb51de12da6d25143da48
+    #Switches:
+    #  Silent: 
+    #  SilentWithProgress:  
