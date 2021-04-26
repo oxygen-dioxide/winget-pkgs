@@ -1,0 +1,20 @@
+PackageIdentifier: Stellarium.Stellarium
+Publisher: Stellarium
+PackageName: Stellarium
+PackageVersion: 0.16.1
+Tags:
+- astronomy
+- star
+- planetarium
+ShortDescription: Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.
+PackageUrl: https://stellarium.org/
+License: GPLv2
+LicenseUrl: https://github.com/Stellarium/stellarium/blob/master/COPYING
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/Stellarium/stellarium/releases/download/v0.16.1/stellarium-0.16.1-win64.exe
+  InstallerSha256: 32bcdca8a0ad8bc2a2b61ce908470d4e01c50994d8638f10d529aa65b5b38bc4
+  InstallerType: inno
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
